@@ -1,6 +1,6 @@
-ARTIFACTS_BUCKET=broadcast-monitoring-blog
+ARTIFACTS_BUCKET=testvideobucketlive
 ENV_DEPLOY ?= test
-AWS_REGION ?= us-east-1
+AWS_REGION ?= ap-south-1
 
 
 
